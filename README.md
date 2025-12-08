@@ -1,2 +1,2 @@
 # P6FlappyFinalCobian
-creating a repo fore unity project
+creating a repo for my unity project
