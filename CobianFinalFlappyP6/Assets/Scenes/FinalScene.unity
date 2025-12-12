@@ -444,6 +444,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa837a9e72e71b147a78a60db0b5767c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameOverText: {fileID: 166214711}
+  gameOver: 0
 --- !u!4 &1449913861
 Transform:
   m_ObjectHideFlags: 0
